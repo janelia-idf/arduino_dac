@@ -1,0 +1,59 @@
+eeschema (2011-05-25)-stable  >> Creation date: Fri 08 Nov 2013 10:18:52 AM EST
+
+#Cmp ( order = Reference )
+| C1         1.5uF       
+| C2         1.5uF       
+| C3         1.5uF       
+| C4         1.5uF       
+| C5         10uF        
+| C6         0.1uF       
+| C7         0.1uF       
+| C8         10uF        
+| C9         0.1uF       
+| D1         AD57X4R     
+| D2         LED         
+| P1         +12VDC      
+| P2         DBNC_INPUT  
+| P3         DBNC_OUTPUT_AB
+| P4         DBNC_OUTPUT_CD
+| P5         CONN_5      
+| R1         0.1         
+| R2         0.1         
+| R3         0.1         
+| R4         0.1         
+| R5         330         
+| SHIELD1    ARDUINO_MEGA_SHIELD_FULL
+| SW1        SWITCH_INPUT
+| SW2        SWITCH_OUTPUT
+| X1         XPROTOLAB   
+#End Cmp
+
+#Cmp ( order = Value )
+| +12VDC       P1        
+| 0.1          R1        
+| 0.1          R2        
+| 0.1          R3        
+| 0.1          R4        
+| 0.1uF        C6        
+| 0.1uF        C7        
+| 0.1uF        C9        
+| 1.5uF        C1        
+| 1.5uF        C2        
+| 1.5uF        C3        
+| 1.5uF        C4        
+| 10uF         C5        
+| 10uF         C8        
+| 330          R5        
+| AD57X4R      D1        
+| ARDUINO_MEGA_SHIELD_FULL SHIELD1   
+| CONN_5       P5        
+| DBNC_INPUT   P2        
+| DBNC_OUTPUT_AB P3        
+| DBNC_OUTPUT_CD P4        
+| LED          D2        
+| SWITCH_INPUT SW1       
+| SWITCH_OUTPUT SW2       
+| XPROTOLAB    X1        
+#End Cmp
+
+#End List

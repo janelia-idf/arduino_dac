@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Fri 08 Nov 2013 10:40:35 AM EST
+
+BeginCmp
+TimeStamp = /527BEEA7;
+Reference = C1;
+ValeurCmp = 1.5uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /527BEF03;
+Reference = C2;
+ValeurCmp = 1.5uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /527BEF15;
+Reference = C3;
+ValeurCmp = 1.5uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /527BEF19;
+Reference = C4;
+ValeurCmp = 1.5uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /52584843;
+Reference = C5;
+ValeurCmp = 10uF;
+IdModule  = SM1210_POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /52584822;
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /5258435E;
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /5258484A;
+Reference = C8;
+ValeurCmp = 10uF;
+IdModule  = SM1210_POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5258481E;
+Reference = C9;
+ValeurCmp = 0.1uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /52583D36;
+Reference = D1;
+ValeurCmp = AD57X4R;
+IdModule  = TSSOP_24;
+EndCmp
+
+BeginCmp
+TimeStamp = /527BFCEE;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52584789;
+Reference = P1;
+ValeurCmp = +12VDC;
+IdModule  = DCJACK_2PIN_HIGHCURRENT;
+EndCmp
+
+BeginCmp
+TimeStamp = /527BE600;
+Reference = P2;
+ValeurCmp = DBNC_INPUT;
+IdModule  = BNC_DOUBLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /527BF263;
+Reference = P3;
+ValeurCmp = DBNC_OUTPUT_AB;
+IdModule  = BNC_DOUBLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /527BF267;
+Reference = P4;
+ValeurCmp = DBNC_OUTPUT_CD;
+IdModule  = BNC_DOUBLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /527D000C;
+Reference = P5;
+ValeurCmp = CONN_5;
+IdModule  = Header_5_Pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /527BECF0;
+Reference = R1;
+ValeurCmp = 0.1;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /527BECF6;
+Reference = R2;
+ValeurCmp = 0.1;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /527BED10;
+Reference = R3;
+ValeurCmp = 0.1;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /527BED0F;
+Reference = R4;
+ValeurCmp = 0.1;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /527BFD07;
+Reference = R5;
+ValeurCmp = 330;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /504F5474;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_MEGA_SHIELD_FULL;
+IdModule  = ARDUINO_MEGA_SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CFED5;
+Reference = SW1;
+ValeurCmp = SWITCH_INPUT;
+IdModule  = SWITCH_GT11MSCBE;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CFEDA;
+Reference = SW2;
+ValeurCmp = SWITCH_OUTPUT;
+IdModule  = SWITCH_GT11MSCBE;
+EndCmp
+
+BeginCmp
+TimeStamp = /527BF60A;
+Reference = X1;
+ValeurCmp = XPROTOLAB;
+IdModule  = XPROTOLAB;
+EndCmp
+
+EndListe
