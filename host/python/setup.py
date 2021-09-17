@@ -24,7 +24,7 @@ setup(
     name='arduino_dac',
     version='0.1.0',
     author='Peter Polidoro',
-    author_email='peterpolidoro@gmail.com',
+    author_email='peter@polidoro.io',
     packages=['arduino_dac',
               'arduino_dac/webserver',
               ],
